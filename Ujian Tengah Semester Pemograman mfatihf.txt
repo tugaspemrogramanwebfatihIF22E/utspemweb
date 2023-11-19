@@ -1,0 +1,40 @@
+Ujian Tengah Semester Pemograman Web
+
+Nama	: Muhammad fatih fajrin
+NIM	: 22416255201242
+Kelas	: IF22E
+
+Soal no 1:
+Apa yang dimaksud dengan framework pada pengembangan aplikasi? 
+(jelaskan dengan bahasa yang mudah dimengerti, bukan secara 
+harfiah/istilah)
+Jawaban:
+Framework dalam aplikasi adalah suatu dasar  atau penopang dalam pembuatan tubuh aplikasi secara terancang atau tersusun dan di gunakan secara  beruntun. Yang berarti kalau dalam pengertian tubuh manusia framework itu berarti kerangka tulang 
+Soal no 2:
+1. Sebutkan tema proyek yang sedang digarap!
+2. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan 
+jobdesk dari masing-masing anggota!
+3. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan 
+client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan 
+bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+Jawaban :
+1.	Aplikasi Koperasi Simpan Pinjam - Deposit wajib & sukarela, pengajuan kredit pinjaman, dsb. Di Smkn 1 Rawamerta
+2.	Beranggotakan :
+•	M. Fatih Fajrin		: (Database, Desain Web)
+•	Viola Suci Oktariana	: (Programer)
+•	Andhika Satriani W.	: (Laporan, Timeline)
+3.	Permasalahan yang di dapat :
+1.	Pembayaran
+akan menggunakan proses registrasi data diri dan dalam aplikasi akan mengeluarkan nomor virtual account, di sarankan untuk menggunakan virtual account untuk keamanan keuangan koperasi secara menyeluruh
+
+2.	 Telat bayar
+akan ada peringatan secara berkala, baik itu dalam progran, whats app, atau pun secara langsung
+
+3.	 Macet 
+ akan ada peringatan secara berturut turut sesuai dalam peraturan, dan akan ada peringatan keras dalam account koperasi 
+
+4.	 Peminjaman/Pengambilan
+member harus registrasi dalam aplikasi atau web untuk pinjaman atau pengambilan, dan hasil registrasi harus di kirim kan ke dalam web/aplikasi dalam bentuk file, dan setelah proses pengiriman registrasi selesai uang pinjaman/pengambilan akan langsung di transfer ke dalam nomor rekening member yang telah registrasi
+
+5.	 Tiba tiba berhenti
+uang akan hangus dan tidak bisa di kembalikan, lalu account member yang sudah di buat akan terblokir secara otomatis
